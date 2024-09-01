@@ -26,24 +26,24 @@ Points: 10
 
 Details:
 
-Part 1: Topic Selection
+- Part 1: Topic Selection
 
 Select a relevant business topic or propose a new one. The topic should be aligned with the business needs and have sufficient data available for analysis.
 
-Part 2: Database Design
+- Part 2: Database Design
 
 Design the database using data modeling techniques discussed in class, such as entity-relationship diagrams (ERDs), normalization, and schema definition.
 Ensure the design supports the business objectives and can handle the necessary data efficiently.
 
-Part 3: Data Cleaning and Exploration
+- Part 3: Data Cleaning and Exploration
 
-<u>Data Cleaning:<u>
+<u>Data Cleaning:</u>
 
 Identify and address any inconsistencies, missing values, or outliers in the data.
 Apply techniques such as removing duplicates, filling or dropping missing values, and correcting data types.
 Document the cleaning steps taken and any assumptions made.
 
-_Data Exploration:_
+<u>Data Exploration:</u>
 
 - Perform initial exploratory data analysis (EDA) to understand the data's structure and characteristics.
 - Generate summary statistics (mean, median, mode, standard deviation) for key variables.
