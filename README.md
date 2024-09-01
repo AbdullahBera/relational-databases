@@ -6,9 +6,10 @@
 
 Group Project for Database Design and Analysis
 Team Members:
-    - Yan Aung
-    - Hamza Louzan
-    - Abdullah Bera Kucuk
+
+- Yan Aung
+- Hamza Louzan
+- Abdullah Bera Kucuk
 
     
 ### Project Description:
@@ -20,45 +21,59 @@ Deliverables:
 **PD1: Project Proposal, Database Design, and Data Exploration**
 
 Due Date: 09/06/2024
+
 Points: 10
+
 Details:
 
 Part 1: Topic Selection
+
 Select a relevant business topic or propose a new one. The topic should be aligned with the business needs and have sufficient data available for analysis.
 
 Part 2: Database Design
+
 Design the database using data modeling techniques discussed in class, such as entity-relationship diagrams (ERDs), normalization, and schema definition.
 Ensure the design supports the business objectives and can handle the necessary data efficiently.
 
 Part 3: Data Cleaning and Exploration
-Data Cleaning:
+
+<u>Data Cleaning:<u>
+
 Identify and address any inconsistencies, missing values, or outliers in the data.
 Apply techniques such as removing duplicates, filling or dropping missing values, and correcting data types.
 Document the cleaning steps taken and any assumptions made.
-Data Exploration:
-Perform initial exploratory data analysis (EDA) to understand the data's structure and characteristics.
-Generate summary statistics (mean, median, mode, standard deviation) for key variables.
-Visualize the data through histograms, box plots, scatter plots, or other appropriate visualizations to identify patterns or anomalies.
-Highlight any interesting findings or potential issues that might impact the analysis in later stages.
 
-**PD2: Database Creation*
+_Data Exploration:_
+
+- Perform initial exploratory data analysis (EDA) to understand the data's structure and characteristics.
+- Generate summary statistics (mean, median, mode, standard deviation) for key variables.
+- Visualize the data through histograms, box plots, scatter plots, or other appropriate visualizations to identify patterns or anomalies.
+- Highlight any interesting findings or potential issues that might impact the analysis in later stages.
+
+**PD2: Database Creation**
 
 Due Date: 09/16/2024
+
 Points: 10
+
 Details:
-Implement the designed database on a cloud-hosted platform.
-Ensure all tables, relationships, and constraints are correctly set up based on the design from PD1.
-Input a sample dataset to test the database's functionality and correctness.
+
+- Implement the designed database on a cloud-hosted platform.
+- Ensure all tables, relationships, and constraints are correctly set up based on the design from PD1.
+- Input a sample dataset to test the database's functionality and correctness.
 
 **PD3: Data Analysis & Insights**
 
 Due Date: 10/07/2024
+
 Points: 10
+
 Details:
-Measure and generate insights by analyzing three critical business metrics.
-Use SQL or other data analysis tools to extract meaningful patterns from the database.
-Visualize the insights and provide actionable recommendations based on the findings.
-Complete a peer review survey on team performance.
+
+- Measure and generate insights by analyzing three critical business metrics.
+- Use SQL or other data analysis tools to extract meaningful patterns from the database.
+- Visualize the insights and provide actionable recommendations based on the findings.
+- Complete a peer review survey on team performance.
 
 #### Timeline:
 
