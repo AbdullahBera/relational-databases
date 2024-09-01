@@ -1,8 +1,8 @@
 # relational-databases
 
-##Project Schema
+## Project Schema
 
-###Project Name:
+### Project Name:
 
 Group Project for Database Design and Analysis
 Team Members:
@@ -11,9 +11,9 @@ Team Members:
     - Abdullah Bera Kucuk
 
     
-###Project Description:
+### Project Description:
 
-####Objective: Design, create, and analyze a database that meets specific business requirements.
+#### Objective: Design, create, and analyze a database that meets specific business requirements.
 
 Deliverables:
 
@@ -60,7 +60,7 @@ Use SQL or other data analysis tools to extract meaningful patterns from the dat
 Visualize the insights and provide actionable recommendations based on the findings.
 Complete a peer review survey on team performance.
 
-####Timeline:
+#### Timeline:
 
 Week 1: Topic selection and initial discussion on database design.
 Week 2: Finalize database design; start data cleaning and exploration.
@@ -68,14 +68,14 @@ Week 3-4: Create the database; test with a sample dataset.
 Week 5-6: Conduct data analysis and generate insights.
 Week 7: Complete peer review survey; finalize the project.
 
-####Tools & Technologies:
+#### Tools & Technologies:
 
 Database Management System (DBMS): e.g., MySQL, PostgreSQL.
 Cloud Platform: e.g., AWS RDS, Google Cloud SQL.
 Data Analysis Tools: e.g., SQL, Python with Pandas, Excel.
 Visualization Tools: e.g., Matplotlib, Seaborn, Tableau.
 
-####Assessment Criteria:
+#### Assessment Criteria:
 
 PD1: Clarity of the topic, completeness of the database design, thoroughness of data cleaning and exploration, and adherence to data modeling principles.
 PD2: Correct implementation of the database, effective use of cloud-hosted solutions, and adherence to the initial design.
